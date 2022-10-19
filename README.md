@@ -37,6 +37,10 @@
 
 ###
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ahmedoid/ahmedoid/blob/output/snake.svg" alt="Snake animation" />
