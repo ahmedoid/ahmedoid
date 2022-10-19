@@ -39,6 +39,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [التنبيهات بإستخدام FCM في تطبيقات Flutter في Foreground.](https://aljo3aid.com/firebace-fcm-foreground/)
+- [المصادقة بإستخدام Firebase Auth و FlutterFire UI لتطبيقات Flutter](https://aljo3aid.com/flutterfire-ui/)
+- [إضافة Firebase لتطبيق Flutter بإستخدام Firebase CLI](https://aljo3aid.com/firebase-cli/)
+- [قواعد بيانات Isar في تطبيقات Flutter](https://aljo3aid.com/isar-flutter-database/)
+- [درب وشغل Tensorflow Lite على تطبيق Flutter](https://aljo3aid.com/tensorflow_flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <br clear="both">
