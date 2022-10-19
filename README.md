@@ -4,6 +4,7 @@
 
 <p align="left">Welcome to my page!<br>I'm Ahmed, Data Scientist and Flutter Developer.  from  Riyadh, Saudi Arabia 🇸🇦</p>
 
+---  
 ###
 
 <div align="left">
@@ -22,7 +23,7 @@
 </div>
 
 ###
-
+---
 <div align="left">
   <a href="https://www.linkedin.com/in/aljoaid/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -36,8 +37,8 @@
 </div>
 
 ###
-
-# Blog posts
+---
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [التنبيهات بإستخدام FCM في تطبيقات Flutter في Foreground.](https://aljo3aid.com/firebace-fcm-foreground/)
 - [المصادقة بإستخدام Firebase Auth و FlutterFire UI لتطبيقات Flutter](https://aljo3aid.com/flutterfire-ui/)
@@ -48,7 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ahmedoid/ahmedoid/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
