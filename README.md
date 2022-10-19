@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my page!<br>I'm Ahmed, Data Scientist and Flutter Developer.  from  Lorient, Saudi Arabia 🇸🇦</p>
+<p align="left">Welcome to my page!<br>I'm Ahmed, Data Scientist and Flutter Developer.  from  Riyadh, Saudi Arabia 🇸🇦</p>
 
 ###
 
