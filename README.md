@@ -6,7 +6,7 @@
 
 ---
 
-💻 Technologies I Love
+### 💻 Technologies I Love
 - Flutter
 - Machine Learning
 - Data Science
