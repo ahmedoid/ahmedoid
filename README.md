@@ -10,7 +10,7 @@
 - Flutter
 - Machine Learning
 - Data Science
-- Frontend and Backend Web Development
+- Backend Web Development
 
 ---  
 ### Programming Languages & Technologies I Use
