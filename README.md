@@ -4,8 +4,16 @@
 
 <p align="left">Welcome to my page!<br>I'm Ahmed, Data Scientist and Flutter Developer.  from  Riyadh, Saudi Arabia 🇸🇦</p>
 
+---
+
+💻 Technologies I Love
+- Flutter
+- Machine Learning
+- Data Science
+- Frontend and Backend Web Development
+
 ---  
-###
+### Programming Languages & Technologies I Use
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
