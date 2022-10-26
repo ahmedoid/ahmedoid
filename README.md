@@ -67,6 +67,12 @@
 
 ###
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ahmedoid/ahmedoid/bf61792c7b84e87ee7912afdfb23d595c0274e75/snake.svg"  />
+</div>
+
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/ahmedoid/count.svg?"  />
 </div>
