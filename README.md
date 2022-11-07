@@ -65,6 +65,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ahmedoid" height="150" alt="languages graph"  />
 </div>
 
+###   
+
+<!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition) -->
+<!-- ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedaljuaid/dataset) -->
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedaljuaid/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedaljuaid/discussion)
+
 ###
 
 
