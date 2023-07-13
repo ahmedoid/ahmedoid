@@ -7,10 +7,8 @@
 ---
 
 ### 💻 Technologies I Love
-- Flutter
 - Machine Learning
 - Data Science
-- Backend Web Development
 
 ---  
 ### 👨🏻‍💻 Programming Languages & Technologies I Use
