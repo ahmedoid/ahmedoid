@@ -42,11 +42,10 @@
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [إستخدام ODM للتعامل مع Firestore](https://aljo3aid.com/firestore-odm/)
 - [إجعل IOS أسرع مع Precompiled Firestore iOS SDK](https://aljo3aid.com/precompiled-firestore-ios-sdk/)
-- [التنبيهات بإستخدام FCM في تطبيقات Flutter في Foreground.](https://aljo3aid.com/firebace-fcm-foreground/)
-- [المصادقة بإستخدام Firebase Auth و FlutterFire UI لتطبيقات Flutter](https://aljo3aid.com/flutterfire-ui/)
-- [إضافة Firebase لتطبيق Flutter بإستخدام Firebase CLI](https://aljo3aid.com/firebase-cli/)
+- [قواعد بيانات Isar في تطبيقات Flutter](https://aljo3aid.com/isar-flutter-database/)
+- [درب وشغل Tensorflow Lite على تطبيق Flutter](https://aljo3aid.com/tensorflow-flutter/)
+- [افتح اتصال بين Flutter و الكود الاصلي باستخدام Pigeon](https://aljo3aid.com/flutter-pigeon/)
 <!-- BLOG-POST-LIST:END -->
 
 <br clear="both">
