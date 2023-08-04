@@ -42,6 +42,7 @@
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [تأثير البيانات المفقودة على دقة الاستنتاج : حل لغز البيانات المفقودة](https://aljo3aid.com/missing-data-1/)
 - [إجعل IOS أسرع مع Precompiled Firestore iOS SDK](https://aljo3aid.com/precompiled-firestore-ios-sdk/)
 - [قواعد بيانات Isar في تطبيقات Flutter](https://aljo3aid.com/isar-flutter-database/)
 - [درب وشغل Tensorflow Lite على تطبيق Flutter](https://aljo3aid.com/tensorflow-flutter/)
