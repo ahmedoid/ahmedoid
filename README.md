@@ -42,11 +42,11 @@
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [الدقة &lpar;Accuracy&rpar; ليست كل شيء!](https://aljo3aid.com/accuracy/)
 - [تأثير البيانات المفقودة على دقة الاستنتاج: أساليب تعويض البيانات المفقودة &lpar;2&rpar;](https://aljo3aid.com/missing-values-2/)
 - [تأثير البيانات المفقودة على دقة الاستنتاج : حل لغز البيانات المفقودة](https://aljo3aid.com/missing-data-1/)
 - [إجعل IOS أسرع مع Precompiled Firestore iOS SDK](https://aljo3aid.com/precompiled-firestore-ios-sdk/)
 - [قواعد بيانات Isar في تطبيقات Flutter](https://aljo3aid.com/isar-flutter-database/)
-- [درب وشغل Tensorflow Lite على تطبيق Flutter](https://aljo3aid.com/tensorflow-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <br clear="both">
