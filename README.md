@@ -42,11 +42,11 @@
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [اعد ضبط Mistral 7B وانشئ نموذجك اللغوي الخاص – الجزء 1](https://aljo3aid.com/mistral-v7-part1/)
 - [إعادة ضبط LLM باستخدام LoRA &lpar;Low-Rank Adaptation&rpar;](https://aljo3aid.com/%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%b6%d8%a8%d8%b7-llm-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-lora-low-rank-adaptation%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%b6%d8%a8%d8%b7-llm-%d8%a8%d8%a7/)
 - [نماذج الآلة والإستدامة](https://aljo3aid.com/data-drift/)
 - [الدقة &lpar;Accuracy&rpar; ليست كل شيء!](https://aljo3aid.com/accuracy/)
 - [تأثير البيانات المفقودة على دقة الاستنتاج: أساليب تعويض البيانات المفقودة &lpar;2&rpar;](https://aljo3aid.com/missing-values-2/)
-- [تأثير البيانات المفقودة على دقة الاستنتاج : حل لغز البيانات المفقودة](https://aljo3aid.com/missing-data-1/)
 <!-- BLOG-POST-LIST:END -->
 
 <br clear="both">
