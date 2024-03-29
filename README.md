@@ -42,11 +42,11 @@
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [YOLO-World كشف الكائنات بسرعة وكفاءة باستخدام مفردات مفتوحة](https://aljo3aid.com/yolo-world/)
 - [حافظ على خصوصية بياناتك مع التعلم الموزع Federated Learning](https://aljo3aid.com/federated-learning/)
 - [شبكات CNN القائمة على المنطقة R-CNN](https://aljo3aid.com/r-cnn/)
 - [اعد ضبط Mistral 7B وانشئ نموذجك اللغوي الخاص – الجزء 2](https://aljo3aid.com/mistral-2/)
 - [اعد ضبط Mistral 7B وانشئ نموذجك اللغوي الخاص – الجزء 1](https://aljo3aid.com/mistral-v7-part1/)
-- [إعادة ضبط LLM باستخدام LoRA &lpar;Low-Rank Adaptation&rpar;](https://aljo3aid.com/%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%b6%d8%a8%d8%b7-llm-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-lora-low-rank-adaptation%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%b6%d8%a8%d8%b7-llm-%d8%a8%d8%a7/)
 <!-- BLOG-POST-LIST:END -->
 
 <br clear="both">
