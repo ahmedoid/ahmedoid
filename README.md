@@ -61,10 +61,7 @@
 
 ###   
 
-<!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition) -->
-<!-- ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedaljuaid/dataset) -->
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedaljuaid/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedaljuaid/discussion)
+
 
 ###
 
@@ -78,4 +75,5 @@
   <img src="https://profile-counter.glitch.me/ahmedoid/count.svg?"  />
 </div>
 
-###
+
+
