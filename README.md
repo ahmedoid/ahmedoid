@@ -42,11 +42,11 @@
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [تحليل الشبكات الحضرية وتأثيرها على التخطيط العمراني والاستدامة](https://aljo3aid.com/street/)
 - [الذكاء الاصطناعي المتمركز حول البيانات  Data-Centric AI &lpar;DCAI&rpar;](https://aljo3aid.com/dcai-1/)
 - [YOLO-World كشف الكائنات بسرعة وكفاءة باستخدام مفردات مفتوحة](https://aljo3aid.com/yolo-world/)
 - [حافظ على خصوصية بياناتك مع التعلم الموزع Federated Learning](https://aljo3aid.com/federated-learning/)
 - [شبكات CNN القائمة على المنطقة R-CNN](https://aljo3aid.com/r-cnn/)
-- [اعد ضبط Mistral 7B وانشئ نموذجك اللغوي الخاص – الجزء 2](https://aljo3aid.com/mistral-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <br clear="both">
