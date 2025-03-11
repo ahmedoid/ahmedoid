@@ -42,11 +42,11 @@
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [استخدام الرسم البياني &lpar;Network Graph&rpar; لفهم الشوارع والتقاطعات](https://aljo3aid.com/network/)
 - [تحليل الشبكات الحضرية وتأثيرها على التخطيط العمراني والاستدامة](https://aljo3aid.com/street/)
 - [الذكاء الاصطناعي المتمركز حول البيانات  Data-Centric AI &lpar;DCAI&rpar;](https://aljo3aid.com/dcai-1/)
 - [YOLO-World كشف الكائنات بسرعة وكفاءة باستخدام مفردات مفتوحة](https://aljo3aid.com/yolo-world/)
 - [حافظ على خصوصية بياناتك مع التعلم الموزع Federated Learning](https://aljo3aid.com/federated-learning/)
-- [شبكات CNN القائمة على المنطقة R-CNN](https://aljo3aid.com/r-cnn/)
 <!-- BLOG-POST-LIST:END -->
 
 <br clear="both">
