@@ -1,0 +1,112 @@
+# Profile README "Superpower" Upgrade — Design
+
+**Date:** 2026-05-22
+**Repo:** `ahmedoid/ahmedoid` (GitHub profile README)
+**Goal:** Transform the current profile README into a polished, portfolio-style page with auto-updating widgets, while preserving existing automation (blog post workflow, snake workflow).
+
+---
+
+## Purpose
+
+Upgrade the current README from a basic intro page into a recruiter-friendly profile portfolio. The new page should:
+
+- Lead with identity (who, what, where) via an animated header.
+- Show technical depth at a glance (tech stack, stats, trophies).
+- Surface live work (pinned repos, latest blog posts, recently played track).
+- Stay maintenance-free — every dynamic widget updates on its own or via an existing GitHub Action.
+
+## Constraints
+
+- Must be a single `README.md` at repo root (GitHub profile rendering).
+- Must preserve the `<!-- BLOG-POST-LIST:START -->` / `<!-- BLOG-POST-LIST:END -->` markers — the hourly `blog-post-workflow.yml` writes between them.
+- Must keep the existing `snake.yml` SVG embed working.
+- All third-party widgets must be free, no-auth, embeddable via a plain image URL (exception: Spotify, which requires a one-time deploy by the user).
+- Must work on dark and light GitHub themes.
+
+## Layout (top to bottom)
+
+1. **Animated typing header** — `readme-typing-svg.demolab.com` rotating between:
+   - `Hi, I'm Ahmed 👋`
+   - `Data Scientist from Riyadh 🇸🇦`
+   - `Building with Python, PyTorch & data`
+
+2. **About me** — 2–3 line intro that names role, focus areas, and a pointer to the blog (`aljo3aid.com`).
+
+3. **🛠️ Tech Stack** — existing devicon icons regrouped into rows:
+   - Languages: Python
+   - ML / Data: PyTorch, NumPy, Pandas, Jupyter
+   - Tools: Flask, VS Code
+
+4. **📌 Featured Projects** — two-column grid of `github-readme-stats` pin cards, one per pinned repo. Repo names are filled in from the user's current pinned repos on GitHub. Updating the pinned set on GitHub auto-updates the README.
+
+5. **📊 GitHub Stats** — three-card row with a unified `tokyonight` theme:
+   - Stats card (`github-readme-stats/api`)
+   - Top languages card (`github-readme-stats/api/top-langs`)
+   - Streak card (`streak-stats.demolab.com`)
+
+6. **🏆 Trophies** — `github-profile-trophy.vercel.app` single-row badge strip.
+
+7. **📈 Activity Graph** — `github-readme-activity-graph.vercel.app` contribution line chart, `tokyo-night` theme.
+
+8. **🎵 Now Playing on Spotify** — `spotify-github-profile.kittinan.com` embed with a `<YOUR_SPOTIFY_UID>` placeholder. An HTML comment above the embed documents the one-time setup (deploy `kittinan/spotify-github-profile` to Vercel, paste the UID).
+
+9. **📝 Latest Blog Posts** — unchanged markers; hourly workflow continues to populate.
+
+10. **🤝 Let's Connect** — LinkedIn, Twitter/X, Telegram badges. The Telegram link is fixed from `@aljo3aid` to `https://t.me/aljo3aid`.
+
+11. **Footer** — snake animation SVG + profile counter (both preserved).
+
+## Theme
+
+All widgets that accept a `theme` parameter use `tokyonight` (or `tokyo-night` for the activity graph, which uses that variant). This replaces the current mix of `dracula` and defaults and gives the page a unified look.
+
+## What changes vs. what stays
+
+**Keep:**
+- `.github/workflows/blog-post-workflow.yml` — unchanged.
+- `.github/workflows/snake.yml` — unchanged.
+- Snake SVG embed.
+- Profile counter embed.
+- Devicon icons for the tech stack.
+
+**Fix:**
+- Telegram link: `@aljo3aid` → `https://t.me/aljo3aid`.
+
+**Add:**
+- Typing animation header.
+- Pinned-repos grid.
+- Streak card.
+- Trophies row.
+- Activity graph.
+- Spotify now-playing placeholder + setup comment.
+
+**Unify:**
+- All widget themes → `tokyonight`.
+
+## Data flow
+
+- **Blog posts:** Hourly cron in `blog-post-workflow.yml` pulls `https://aljo3aid.com/feed/` and rewrites the section between the two markers. No changes to this flow.
+- **Snake:** `snake.yml` regenerates `snake.svg` on a schedule and commits it to the output branch; the README embeds the raw URL. No changes.
+- **All other widgets:** Plain `<img src="…">` against third-party services. Each request renders fresh data when the README is viewed. No secrets, no workflow changes needed.
+- **Spotify:** Requires the user to do a one-time deploy of `kittinan/spotify-github-profile` to Vercel and paste their UID into the URL. Until that's done, the embed shows a "not configured" image but doesn't break the page.
+
+## Error / failure handling
+
+- Third-party widget services occasionally rate-limit or 503. Each is an independent `<img>`, so a single failure only blanks that one card — the rest of the page renders normally.
+- Spotify placeholder before setup: image fails to load gracefully (alt text shown). No layout break.
+- Blog post section: if the feed is empty or the workflow fails, the markers remain and the section shows whatever was last written. Acceptable.
+
+## Out of scope
+
+- Writing actual project descriptions or experience entries (auto-pin chosen instead).
+- Deploying the Spotify Vercel app (user does this themselves later).
+- Translating the README to Arabic (bilingual option was offered and not selected).
+- Any CI/workflow changes beyond what already exists.
+
+## Success criteria
+
+- Renders correctly on `github.com/ahmedoid` on first push.
+- All widget URLs return 200 and render images on dark theme.
+- Blog-post markers still present and the hourly workflow's next run successfully rewrites between them.
+- Telegram link opens the correct chat.
+- No removed automation, no broken images.
