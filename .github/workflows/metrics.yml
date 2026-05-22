@@ -1,0 +1,30 @@
+name: Metrics
+on:
+  schedule:
+    - cron: '0 * * * *'    # hourly
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+          user: ahmedoid
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: false
+          config_timezone: Asia/Riyadh
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, scss
+          plugin_languages_details: percentage
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_lines: yes
+          plugin_topics: yes
+          plugin_topics_mode: icons
