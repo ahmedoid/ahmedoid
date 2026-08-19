@@ -106,11 +106,11 @@ I write (mostly in Arabic) at **[aljo3aid.com](https://aljo3aid.com)**.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [نماذج LLM كيف انتجت الخبرة؟](https://aljo3aid.com/%d9%86%d9%85%d8%a7%d8%b0%d8%ac-llm-%d9%83%d9%8a%d9%81-%d8%a7%d9%86%d8%aa%d8%ac%d8%aa-%d8%a7%d9%84%d8%ae%d8%a8%d8%b1%d8%a9%d8%9f/)
 - [استخدام الرسم البياني &lpar;Network Graph&rpar; لفهم الشوارع والتقاطعات](https://aljo3aid.com/network/)
 - [تحليل الشبكات الحضرية وتأثيرها على التخطيط العمراني والاستدامة](https://aljo3aid.com/street/)
 - [الذكاء الاصطناعي المتمركز حول البيانات  Data-Centric AI &lpar;DCAI&rpar;](https://aljo3aid.com/dcai-1/)
 - [YOLO-World كشف الكائنات بسرعة وكفاءة باستخدام مفردات مفتوحة](https://aljo3aid.com/yolo-world/)
-- [حافظ على خصوصية بياناتك مع التعلم الموزع Federated Learning](https://aljo3aid.com/federated-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
