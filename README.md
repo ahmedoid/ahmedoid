@@ -106,7 +106,7 @@ I write (mostly in Arabic) at **[aljo3aid.com](https://aljo3aid.com)**.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [هل النماذج الصغيرة اكثر كفاءة](https://aljo3aid.com/sllm/)
+- [الاعتماد على النماذج العملاقة في كل شيء ليس تقدما… بل خطأ هندسي مكلف لم يراجع بعد](https://aljo3aid.com/sllm/)
 - [من Prompt Engineering إلى Loop Engineering](https://aljo3aid.com/agent-loop/)
 - [استخدام الرسم البياني &lpar;Network Graph&rpar; لفهم الشوارع والتقاطعات](https://aljo3aid.com/network/)
 - [تحليل الشبكات الحضرية وتأثيرها على التخطيط العمراني والاستدامة](https://aljo3aid.com/street/)
