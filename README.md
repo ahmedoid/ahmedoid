@@ -106,11 +106,11 @@ I write (mostly in Arabic) at **[aljo3aid.com](https://aljo3aid.com)**.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ليش النموذج اللي “يفكر” يطلع أدق؟](https://aljo3aid.com/thinking/)
-- [احتراق العقل الرقمي](https://aljo3aid.com/digital-burnout/)
-- [ماذا كشف Vibe Coding عن بناء المنتجات](https://aljo3aid.com/vibe-coding/)
-- [استخدام الرسم البياني &lpar;Network Graph&rpar; لفهم الشوارع والتقاطعات](https://aljo3aid.com/network/)
-- [تحليل الشبكات الحضرية وتأثيرها على التخطيط العمراني والاستدامة](https://aljo3aid.com/street/)
+- [الاعتماد على النماذج العملاقة في كل شيء ليس تقدما… بل خطأ هندسي مكلف لم يراجع بعد](https://aljo3aid.com/sllm/)
+- [نماذج LLM كيف انتجت الخبرة؟](https://aljo3aid.com/thinking-2/)
+- [من Prompt Engineering إلى Loop Engineering](https://aljo3aid.com/loop/)
+- [هل نحتاج نموذج يعرف كل شي؟](https://aljo3aid.com/knowldge/)
+- [فهم العالم WORLD MODEL](https://aljo3aid.com/world-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
