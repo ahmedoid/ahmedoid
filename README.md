@@ -106,11 +106,11 @@ I write (mostly in Arabic) at **[aljo3aid.com](https://aljo3aid.com)**.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [استخدم opencode من الـTerminal وتابع الـAgent – عملي](https://aljo3aid.com/%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d9%85-opencode-%d9%85%d9%86-%d8%a7%d9%84%d9%80terminal-%d9%88%d8%aa%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d9%80agent-%d8%b9%d9%85%d9%84%d9%8a/)
 - [كيف تتعلم sLLM من النماذج الكبيرة](https://aljo3aid.com/knowledge-distillation/)
 - [الاعتماد على النماذج العملاقة في كل شيء ليس تقدما… بل خطأ هندسي مكلف لم يراجع بعد](https://aljo3aid.com/sllm/)
 - [نماذج LLM كيف انتجت الخبرة؟](https://aljo3aid.com/thinking-2/)
 - [من Prompt Engineering إلى Loop Engineering](https://aljo3aid.com/loop/)
-- [هل نحتاج نموذج يعرف كل شي؟](https://aljo3aid.com/knowldge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
